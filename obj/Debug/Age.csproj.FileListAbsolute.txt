@@ -1,0 +1,6 @@
+c:\users\joseph a mcilheran\documents\visual studio 2015\Projects\Age\Age\bin\Debug\Age.exe.config
+c:\users\joseph a mcilheran\documents\visual studio 2015\Projects\Age\Age\bin\Debug\Age.exe
+c:\users\joseph a mcilheran\documents\visual studio 2015\Projects\Age\Age\bin\Debug\Age.pdb
+c:\users\joseph a mcilheran\documents\visual studio 2015\Projects\Age\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache
+c:\users\joseph a mcilheran\documents\visual studio 2015\Projects\Age\Age\obj\Debug\Age.exe
+c:\users\joseph a mcilheran\documents\visual studio 2015\Projects\Age\Age\obj\Debug\Age.pdb
